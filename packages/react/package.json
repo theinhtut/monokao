@@ -1,6 +1,6 @@
 {
   "name": "@monokao/react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "license": "MIT",
   "scripts": {
@@ -10,7 +10,7 @@
     "build": "webpack"
   },
   "dependencies": {
-    "@monokao/common": "1.0.0",
+    "@monokao/common": "^1.0.1",
     "react": "15.6.2",
     "webpack": "2.7.0"
   },
