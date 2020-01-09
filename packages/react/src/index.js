@@ -12,6 +12,7 @@ class Monokao extends Component {
       <section>
         <h5>Brought to you by monospacee</h5>
         <span>This is packages/react</span>
+        <span>This is to test version</span>
         <Fancy text={this.props.text}/>
       </section>
     )
